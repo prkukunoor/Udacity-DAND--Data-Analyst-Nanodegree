@@ -12,8 +12,9 @@ https://profiles.udacity.com/u/priyankareddy
 - **Project 5** - Identifying Fraud from Enron Email & Financial Dataset
 - **Project 6** - Make Effective Data Visualization for Titanic Dataset
 - **Project 7** - Design A/B Testing Experiment
-- **Project 8** - 
-- **Project 9** - Priyanka Kukunuru Resume
+- **Project 8** - Interview Dry-Run (Data Analyst)
+- **Project 9** - Technical_Interview Practice
+- **Resume
 
 ### Courses:
 - Intro to Data Science
