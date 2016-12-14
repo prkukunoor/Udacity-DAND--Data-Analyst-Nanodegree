@@ -18,7 +18,7 @@ https://profiles.udacity.com/u/priyankareddy
 
 ### Courses:
 - Intro to Data Science
-- Data Wrangling with MongoDB
+- Data Wrangling with Sql
 - Data Analysis with R
 - Intro to Machine Learning
 - Data Visualization and D3.js
