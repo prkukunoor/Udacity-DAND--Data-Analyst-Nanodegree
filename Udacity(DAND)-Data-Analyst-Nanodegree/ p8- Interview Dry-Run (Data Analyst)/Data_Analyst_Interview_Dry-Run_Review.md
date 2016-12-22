@@ -92,7 +92,7 @@ but poor results on new data.
 
 Validation and cross-validation of the model are the usual ways to fix it.
 
-Question 6 - If you were to start your data analyst position today, what would be your goals a year from now?
+Question 6 -If you were to start your data analyst position today, what would be your goals a year from now?
 
 This Job is posted on linkedin
 
